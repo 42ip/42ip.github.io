@@ -10,3 +10,8 @@ p {
   padding-bottom: 30px;
 }
 
+.img-fluid, .desk {
+  max-width: 100%;
+  height: auto;
+}
+
