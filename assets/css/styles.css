@@ -4,10 +4,12 @@
 
 p {
   padding-top: 50px;
+  margin-bottom: 16;
 }
 
 .h1, h1 {
   padding-bottom: 30px;
+  font-size: 32px;
 }
 
 .img-fluid, .desk {
